@@ -6,3 +6,5 @@ seaborn
 shap
 numpy
 altair
+imblearn
+lightgbm
